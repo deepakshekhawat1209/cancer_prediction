@@ -17,15 +17,7 @@ The Algorithms used are :
 	* kMeans clustering
 	* RandomForestClassifier
 
-## Screenshots
-
-![Screenshot 1](/screenshots/ss1.png)
-
-![Screenshot 2](/screenshots/ss2.png)
-
-![Screenshot 3](/screenshots/ss3.png)
-
-> Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
+
+
